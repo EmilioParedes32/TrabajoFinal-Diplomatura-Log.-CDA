@@ -160,7 +160,7 @@ Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurren
 
 ## Gestion de Inventario 
 ##5
-**Situcaion actual**
+**Situacion actual**
 Describa brevemente cómo funciona actualmente la
 gestión de inventarios en su empresa y al menos dos
 problemáticas abordadas en el curso. Resalte el uso de
@@ -176,3 +176,22 @@ Situacion actual
 ##Situacion mejorada##
 
 Se propone trabajar con un diagrama ABC, el cual se realiza a partir de los productos que tengan mayor rotacion, para esto es importante contar con un informe tanto de ventas como del encargado de mercaderia **de los sku** que mas salieron del deposito y que mas se vendieron. Esta metodologia permitira identificar los productos que tienen mayor rotacion, por lo tanto, a estos se les debera dar una mayor importancia en el deposito y asignarles un lugar cerca de la zona de preparacion de pedidos para asi ganar tiempo y combustible a la hora de realizar los pedidos. Gracias a esta medida, se puede solucionar en parte la problematica del El Sol Materiales que tiene respecto al tiempo de preparacion de los pedidos y el quiebre de stock. 
+## Costos Logisticos
+##6
+**Situacion Actual**
+Analice los costos logísticos de la situación actual, consignando costos fijos, variables y las amortizaciones de bienes de capital sobre todo los aplicados a la logística
+**Situacion Mejorada**
+Consigne cómo consideraría los costos RELEVANTES para la toma de decisiones
+
+**Situacion actual**
+Actualmente los costos logisticos de la empresa estan diferenciados en dos tipos:
+- Costos fijos, los cuales incluyen los sueldos de los operadores de traficos, y los trabajadores encargados de la operacion, control de mercaderia y documentacion y portero.
+Se añade tambien a los costos fijos los mantenimientos de autoelevadores, seguros de camiones, mantenimiento prevenivo de camiones(service completo con caja y diferencial).
+- Costos variables, que dependen del volumen de mercaderia comprada y vendida, estos se componen de:
+- Costo de facturacion de tarimas a Loma Negra
+- Costos de fletes tercializado.
+- Costo de vueltas vacio al transporte
+- Valor de flete contratado
+- Costo de combustible de flota propia
+
+  Se deben tener en cuenta ademas las amortizaciones de los bienes de la empresa, en el caso de la empresa serian instalaciones y flota de camiones. 
