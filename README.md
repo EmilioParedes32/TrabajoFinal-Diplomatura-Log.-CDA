@@ -225,3 +225,44 @@ Propuestas de mejoras:
 ##Situacion mejorada##
 
 Se propone trabajar con un diagrama ABC, el cual se realiza a partir de los productos que tengan mayor rotacion, para esto es importante contar con un informe tanto de ventas como del encargado de mercaderia **de los sku** que mas salieron del deposito y que mas se vendieron. Esta metodologia permitira identificar los productos que tienen mayor rotacion, por lo tanto, a estos se les debera dar una mayor importancia en el deposito y asignarles un lugar cerca de la zona de preparacion de pedidos para asi ganar tiempo y combustible a la hora de realizar los pedidos. Gracias a esta medida, se puede solucionar en parte la problematica del El Sol Materiales que tiene respecto al tiempo de preparacion de los pedidos y el quiebre de stock. 
+
+## Costos Logisticos 
+##6
+**Situcaion actual**
+Analice los costos logísticos de la situación actual,
+consignando costos fijos, variables y las amortizaciones de
+bienes de capital sobre todo los aplicados a la logística
+
+**Situcaion mejoraa**
+Consigne cómo consideraría los costos RELEVANTES
+para la toma de decisiones
+
+**Situacion actual**
+
+Uniber al ser una empresa que se encarga tanto del abastecimiento y distribucion de todo tipo de materiales de construccion, la optimizacion de los costos logisticos es crucial para lograr la maximizacion de ingresos de la empresa, ya que en caso de realizarse una mala gestion de la misma, se pueden generar grandes perdidas economicas.
+
+El Sol Materiales contrata transportes para el abastecimiento de materiales directamente de fabrica, ubicados en distintos puntos del pais, teniendo un tarifario propio y calculandose el incremento mensual del mismo con porcentajes ligeramente menores a los establecidos por el indice FADEEAC(Federación Argentina de Entidades Empresarias del Autotransporte de Cargas). Los encargados del aprovisionamiento son el lider de trafico corporativo y el analista de trafico corporativo. 
+
+Para enviar los materiales a los clientes el sol materiales posee una flota de 6 camiones, 3 camiones con estructura para la carga mixta de pallets y de chapas y hierros torsionados, y 3 camiones playos que son preferentemente para cargas palletizadas. Estos envios son gestionados por el area de trafico.
+
+Loma Negra posee la opcion de compra CIF, es decir, incluyendo el costo de flete, o bien FOB, llevando un camion propio del cliente a fabrica para retirar el cemento(siempre y cuando cumpla con las normas de seguridad establecidas por loma negra). El sol materiales utiliza el inoterm FOB, ya que el costo de transporte es un 25%  mas economico utilizando un camion contratado por la empresa. 
+
+Los materiales son colocados directamente en los camiones propios para su reparto, por lo tanto los valores de costo de embalaje no serian aplicables en este caso, tampoco seria aplicable el costo de adquisicion por tratarse de una empresa de comercializacion y distribucion.
+
+
+
+Dicho esto se pueden dividir los costos logisticos en fijos y variables:
+
+COSTOS FIJOS, que se compone de:
+
+-sueldos, sampistas, operadores de tráfico, choferes.
+-costo mantenimiento autoelevador, puente grua, camiones propios, estos son realizados cada 6 meses.
+
+Costo variable, que depende de la cantidad de materiales a retirar y distribuir:
+-costo flete tercializado para abastecimiento
+-Costo de combustible de flota propia
+
+Amortizaciones de bienes de capital:
+
+
+
